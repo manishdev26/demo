@@ -1,0 +1,5 @@
+{
+  "name": "EduMatrix ERP",
+  "description": "A production-grade, role-based attendance management system featuring real-time analytics, secure authentication simulation, and comprehensive reporting dashboards for Admins, Teachers, and Students.",
+  "requestFramePermissions": []
+}
